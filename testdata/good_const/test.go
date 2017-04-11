@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+const _theWorld = "Hello, world"
+
 func main() {
-	fmt.Println("Hello, world")
+	fmt.Println(_theWorld)
 }
