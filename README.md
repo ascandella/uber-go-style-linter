@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/sectioneight/uber-go-style-linter.svg?branch=master)](https://travis-ci.org/sectioneight/uber-go-style-linter)
+
 uber-go-style-linter
 ====================
 
