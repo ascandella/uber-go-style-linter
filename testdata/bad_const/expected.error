@@ -1,0 +1,1 @@
+/test.go:3 const "iHateRules" should be "_iHateRules" to avoid shadowing
